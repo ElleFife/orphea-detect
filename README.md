@@ -1,7 +1,4 @@
-# orphea-detect
-
-```markdown
-# Orphea Detect
+# Orphea-detect
 
 Open source AI music detection. Built for independent artists.
 
